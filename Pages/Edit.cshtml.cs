@@ -42,7 +42,7 @@ public class EditModel : PageModel
         existingPost.Slug = Post.Slug;
         existingPost.ImageUrl = Post.ImageUrl;
 
-        existingPost.DateUpdated = DateTime.Now;
+        existingPost.DateUpdated = DateTime.UtcNow;
 
         _context.Attach(existingPost).State = EntityState.Modified;
         _context.SaveChanges();

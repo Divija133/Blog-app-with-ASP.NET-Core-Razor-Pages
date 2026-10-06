@@ -1,303 +1,303 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css",
-      "PackagePath": "staticwebassets\\project.bundle.scp.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/obj/Debug/net8.0/scopedcss/projectbundle/project.bundle.scp.css",
+      "PackagePath": "staticwebassets/project.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\AI.jpeg",
-      "PackagePath": "staticwebassets\\images\\blog-images\\AI.jpeg"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/AI.jpeg",
+      "PackagePath": "staticwebassets/images/blog-images/AI.jpeg"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\break-time.jpeg",
-      "PackagePath": "staticwebassets\\images\\blog-images\\break-time.jpeg"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/break-time.jpeg",
+      "PackagePath": "staticwebassets/images/blog-images/break-time.jpeg"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\fast-learning.jpeg",
-      "PackagePath": "staticwebassets\\images\\blog-images\\fast-learning.jpeg"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/fast-learning.jpeg",
+      "PackagePath": "staticwebassets/images/blog-images/fast-learning.jpeg"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\focus.jpg",
-      "PackagePath": "staticwebassets\\images\\blog-images\\focus.jpg"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/focus.jpg",
+      "PackagePath": "staticwebassets/images/blog-images/focus.jpg"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\habit.png",
-      "PackagePath": "staticwebassets\\images\\blog-images\\habit.png"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/habit.png",
+      "PackagePath": "staticwebassets/images/blog-images/habit.png"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\learn-coding.jpeg",
-      "PackagePath": "staticwebassets\\images\\blog-images\\learn-coding.jpeg"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/learn-coding.jpeg",
+      "PackagePath": "staticwebassets/images/blog-images/learn-coding.jpeg"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\modern-living.jpeg",
-      "PackagePath": "staticwebassets\\images\\blog-images\\modern-living.jpeg"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/modern-living.jpeg",
+      "PackagePath": "staticwebassets/images/blog-images/modern-living.jpeg"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\personal-website.webp",
-      "PackagePath": "staticwebassets\\images\\blog-images\\personal-website.webp"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/personal-website.webp",
+      "PackagePath": "staticwebassets/images/blog-images/personal-website.webp"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\remote-work.png",
-      "PackagePath": "staticwebassets\\images\\blog-images\\remote-work.png"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/remote-work.png",
+      "PackagePath": "staticwebassets/images/blog-images/remote-work.png"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\images\\blog-images\\soft-skills.png",
-      "PackagePath": "staticwebassets\\images\\blog-images\\soft-skills.png"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/images/blog-images/soft-skills.png",
+      "PackagePath": "staticwebassets/images/blog-images/soft-skills.png"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Win10x64\\Desktop\\web development\\phaze 1\\month 1\\week 4\\day 6\\Blog-app-with-ASP.NET-Core-Razor-Pages\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/mnt/c/Users/vdivi/Blog-app-with-ASP.NET-Core-Razor-Pages/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.project.props",
       "PackagePath": "build\\project.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.project.props",
       "PackagePath": "buildMultiTargeting\\project.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.project.props",
       "PackagePath": "buildTransitive\\project.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],

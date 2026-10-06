@@ -19,9 +19,10 @@ namespace project.Model
     [MinLength(10, ErrorMessage = "Content must be at least 10 characters long")]
     public string Content { get; set; }
 
-    public DateTime DateCreated { get; set; } = DateTime.Now;
-
+    public DateTime DateCreated { get; set; } = DateTime.UtcNow;
     public DateTime? DateUpdated { get; set; }
+
+
 
     [Required(ErrorMessage = "Slug is required")]
     [RegularExpression(@"^[a-z0-9]+(?:-[a-z0-9]+)*$",
