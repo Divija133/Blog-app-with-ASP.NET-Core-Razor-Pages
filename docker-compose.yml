@@ -1,0 +1,29 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: blog_postgres
+    environment: 
+      POSTGRES_DB: BlogDb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 4181
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  web: 
+    build: .
+    container_name: blog-app
+    ports:
+      - "8090:8080"
+    depends_on:
+      - postgres
+    environment:
+      ConnectionStrings__DefaultConnection: "Host= postgres;Port=5432;Database=BlogDb;Username=postgres;Password=4181"
+volumes:
+    postgres_data:
+
+
+
+
+    
