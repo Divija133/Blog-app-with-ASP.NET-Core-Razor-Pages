@@ -9,6 +9,11 @@ builder.Services.AddDbContext<AppDbContext>(options
     => options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddRazorPages();
 
+builder.Services.AddHealthChecks()
+    .AddDbContextCheck<AppDbContext>()   // checks your EF Core DbContext
+    .AddCheck("self", () => HealthCheckResult.Healthy()); // simple self-check
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,5 +32,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+
+app.MapHealthChecks("/health");
 
 app.Run();
